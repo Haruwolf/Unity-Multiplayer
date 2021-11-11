@@ -1,0 +1,90 @@
+[api-updater (non-obsolete-error-filter)] 04/11/2021 12:34:10 : Starting C:/Users/pedro/Downloads/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 3897,7816ms
+moved types parse time: 204ms
+candidates parse time : 1ms
+C# parse time         : 2997ms
+candidates check time : 58ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 12:37:01 : Starting C:/Users/pedro/Downloads/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 122,5248ms
+moved types parse time: 67ms
+candidates parse time : 1ms
+C# parse time         : 262ms
+candidates check time : 52ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 05/11/2021 17:47:51 : Starting C:/Users/pedro/Downloads/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 3156,4353ms
+moved types parse time: 92ms
+candidates parse time : 1ms
+C# parse time         : 774ms
+candidates check time : 33ms
+console write time    : 23ms
+
+[api-updater (non-obsolete-error-filter)] 08/11/2021 12:41:26 : Starting C:/Users/pedro/Downloads/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1467,2971ms
+moved types parse time: 103ms
+candidates parse time : 1ms
+C# parse time         : 683ms
+candidates check time : 51ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 08/11/2021 15:36:35 : Starting C:/Users/pedro/Downloads/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 3653,0225ms
+moved types parse time: 487ms
+candidates parse time : 120ms
+C# parse time         : 1084ms
+candidates check time : 36ms
+console write time    : 15ms
+
+[api-updater (non-obsolete-error-filter)] 08/11/2021 16:46:35 : Starting C:/Users/pedro/Downloads/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 262,3571ms
+moved types parse time: 92ms
+candidates parse time : 1ms
+C# parse time         : 812ms
+candidates check time : 46ms
+console write time    : 8ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 12:34:12 : Starting C:/Users/pedro/Downloads/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 3914,0525ms
+moved types parse time: 327ms
+candidates parse time : 20ms
+C# parse time         : 2602ms
+candidates check time : 113ms
+console write time    : 65ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:03:55 : Starting C:/Users/pedro/Downloads/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 475,9356ms
+moved types parse time: 82ms
+candidates parse time : 1ms
+C# parse time         : 661ms
+candidates check time : 46ms
+console write time    : 27ms
+
+[api-updater (non-obsolete-error-filter)] 10/11/2021 16:13:19 : Starting C:/Users/pedro/Downloads/2020.3.20f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 2638,1647ms
+moved types parse time: 125ms
+candidates parse time : 1ms
+C# parse time         : 706ms
+candidates check time : 72ms
+console write time    : 15ms
+
